@@ -10,7 +10,7 @@
         android:icon="@drawable/s3"
         android:label="@string/app_name"
         android:roundIcon="@drawable/s3"
-        android:supportsRtl="false"
+        android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
