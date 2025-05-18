@@ -1,0 +1,13 @@
+<resources>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/deep_navy</item>
+        <item name="colorOnPrimary">@color/light_gray</item>
+        <item name="colorSecondary">@color/neon_purple</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorOnBackground">@color/soft_white</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication">
+        <item name="android:fontFamily">@font/sahel_bold</item>
+    </style>
+</resources>
